@@ -15,3 +15,12 @@ install extensions - es6 snippet for auto suggestions
                    - tailwind intellisence of css refference
                    -prettier for format document
                    -auto rename (for auto renaming)
+
+git
+pages
+i reat-router-dom (for navigating pages)
+used Browser Router , Routes, Route from react-router-dom and used in jsx and coverd app.jsx with <BrowserRouter>
+<Routes>
+<!-- <ROute path="/" element={<Home/>}/> -->
+</Routes>
+</BrowserRouter>
